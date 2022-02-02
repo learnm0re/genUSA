@@ -1,0 +1,12 @@
+Search Engine  ; 36; 40
+Request Form   ; 40; 50
+ Bing Maps     ; 40; 20
+Your Website   ; 42; 19.5
+Content Removal; 36; 30
+Change Default ; 36; 40
+Webmaster Tools; 40; 50
+Other content  ; 40; 20
+Removal Tool   ; 42; 19.5
+Default Search ; 36; 30
+;;
+
