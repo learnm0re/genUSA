@@ -15,3 +15,4 @@ XXXXXXXX                   NN                     NN.NN            NN.NN        
 XXXXXXXX                   NN                     NN.NN            NN.NN         NN.NN        NN.NN     NN.NN     NN.NN       NN.NN.           NN.NN
 The program should run and be able to process 10 employees before ending.
 ```
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
